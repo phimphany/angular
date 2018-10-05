@@ -1,5 +1,5 @@
 {
- "products:[{
+ "products":[{
         "productId" :2,
         "productName" : "Garden Cart",
         "productCode" : "GCN-0023",
@@ -8,6 +8,16 @@
         "price" : 32.99,
         "starRating" : 4.2,
         "imageUrl" :"https://openclipart.org/image/300px/svg_to_png/58471/garden-cart.png"
+      },
+      {
+        "productId" :5,
+        "productName" : "Hammer",
+        "productCode" : "HBX-0023",
+        "releaseDate" : "May 21, 2006",
+        "description" : "Curved claw steel",
+        "price" : 0.856,
+        "starRating" : 4.8,
+        "imageUrl" :"https://openclipart.org/image/300px/svg_to_png/27069/egore911-hammer.png"
       }
-   ]
+]
 }
